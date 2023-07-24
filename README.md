@@ -1,2 +1,3 @@
-# tabs-app
-An application that shows programmers and their experiences. 
+#### IN ACTION
+
+[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
